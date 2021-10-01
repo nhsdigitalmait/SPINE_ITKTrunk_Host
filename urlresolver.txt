@@ -1,0 +1,4 @@
+# Test value for ITK trunk
+#
+urn:nhs:names:services:itk:COPC_IN000001GB01	http://localhost:4998/reliablemessaging/intermediary
+urn:oasis:names:tc:ebxml-msg:service:Acknowledgment	http://localhost:4998/reliablemessaging/intermediary
